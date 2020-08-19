@@ -81,6 +81,10 @@
         justify-content: space-between;
         margin: 20px 40px;
     }
+       .main_content_img{
+        width: 500px;
+        height: auto;
+    }
 
     .main_content_text{
         width: 630px;
